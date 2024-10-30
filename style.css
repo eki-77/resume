@@ -5,6 +5,10 @@ body {
     font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
+p {
+    text-wrap: wrap;
+}
+
 h2 {
     padding: 20px;
     color: #333;
@@ -12,12 +16,15 @@ h2 {
 
 div {
     padding: 20px;
-}
+} 
 
 .emo {
-    
+    clear: left;
+    /* display: flex; */
 }
 
 .palsta {
+    /* flex: 1 */
+    width: 40%;
     float: left;  
 }
