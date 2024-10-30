@@ -1,0 +1,23 @@
+body {
+    color: #555;
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+h2 {
+    padding: 20px;
+    color: #333;
+}
+
+div {
+    padding: 20px;
+}
+
+.emo {
+    
+}
+
+.palsta {
+    float: left;  
+}
